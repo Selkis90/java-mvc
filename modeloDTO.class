@@ -1,1 +1,12 @@
 // este archivo contiene los atributos de un usuario del sistema
+
+public class ModelosDTO{
+
+// Aqui se definen los atributos del objeto
+
+
+// Aqui se definen los metodos y los getter de la clase.
+
+
+
+}
